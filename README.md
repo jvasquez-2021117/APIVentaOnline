@@ -19,6 +19,6 @@ La plataforma cuenta con una arquitectura basada en microservicios, lo que permi
 
 ```
 -Descargar repositorio
--Abrir terminar en la carpeta raiz del proyecto
+-Abrir terminal en la carpeta raiz del proyecto
 -Ejecutar los siguientes comandos "npm i" para instalar todos los paquetes necesarios y "npm run dev" para levantar el servidor
 ```
